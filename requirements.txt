@@ -3,3 +3,6 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+logyca[oauth_token-api_key_simple_auth]==0.1.18
+pydantic==2.8.2
+python-dotenv==1.0.1
